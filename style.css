@@ -155,8 +155,8 @@ button:hover {
         border: 2px solid white;
         padding: 10px 20px;
         margin: 10px 0;
-        position: absolute;
-        top: 700px;
+        position: relative;
+        top: 90px;
     }
 
 }
